@@ -94,7 +94,6 @@ webpage_screenshot:
 还需要安装Chrome浏览器和对应版本的ChromeDriver。ChromeDriver应放置在以下位置之一：
 
 - `plugins/UserEnhancement/driver/chromedriver.exe`
-- `plugins/QunID/driver/chromedriver.exe`（兼容旧版本）
 
 ## 注意事项
 
